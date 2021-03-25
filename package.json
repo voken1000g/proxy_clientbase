@@ -28,7 +28,7 @@
     "@tailwindcss/ui": "^0.7.2",
     "@xpda-dev/core": "^0.1.5",
     "@xpda-dev/electron-builder": "^0.2.1",
-    "@xpda-dev/electron-launcher": "^0.2.1",
+    "@xpda-dev/electron-launcher": "^0.3.0",
     "@xpda-dev/webpack-step": "^0.1.2",
     "browser-env": "^3.3.0",
     "cross-env": "^7.0.3",
